@@ -3,11 +3,12 @@ public class Main {
         int ticket = 20_0000;
         int miles = 1;
         int cost = 20;
-        int bonus= ticket/cost*miles;
-                System.out.println("total"+ bonus + "miles");
+        int bonus = ticket / cost * miles;
+        System.out.println("total" + bonus + "miles");
 
     }
 
 
-
 }
+
+
